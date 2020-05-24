@@ -1,6 +1,5 @@
 import telebot
 import keyboards
-import  lesson_2.planets
 
 
 bot = telebot.TeleBot('995341757:AAEqdUJXkGIxmM0jUAnL_jU1MmkJRZCh7o0')
